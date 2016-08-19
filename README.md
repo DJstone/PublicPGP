@@ -1,1 +1,1 @@
-PublicPGP KEY
+PublicPGP
